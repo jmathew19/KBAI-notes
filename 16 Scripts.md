@@ -35,6 +35,7 @@
 - **AI challenge**: How do we infer the connection?
   - **Scripts help AI connect events logically**.
   - **Pre-learned structures** define relationships between actions and expectations.
+  - Roomba- Roomba hears a spill, can imply it needs to clean
 
 ## Video ID: bFgtpCAk-UM
 ### The Power of Scripts in Daily Life
@@ -49,7 +50,7 @@
 ## Video ID: kW6Zx6hEn-g
 ### Defining a Script
 - **Scripts capture causally coherent events**:
-  - **Causal**: One event leads to another.
+  - **Causal**: One  event leads to another.
   - **Coherent**: The sequence makes logical sense.
 - **Example**:
   - Entering a coffee shop leads to ordering, payment, and receiving a drink.
@@ -81,6 +82,8 @@
     - Ordering food.
     - Receiving food.
     - Eating and paying.
+![[Screenshot 2025-03-05 at 12.45.34 PM.png]]
+![[Screenshot 2025-03-05 at 12.46.02 PM.png]]
 
 ## Video ID: zbllXuDBQ0Q
 ### Instantiating Scripts for AI
@@ -105,6 +108,7 @@
   - Unexpected events can be **engaging** (e.g., plot twists in movies).
   - Creativity is linked to **novelty, usefulness, and surprise**.
 
+
 ## Video ID: 8j-7Vo93pdc
 ### Script Tracks: Variations of Common Scripts
 - **Examples**:
@@ -116,6 +120,8 @@
 - **AI and Semantic Hierarchies**:
   - AI can classify a situation into the right **script track**.
   - Example: Recognizing whether a restaurant is fast food or fine dining.
+![[Screenshot 2025-03-05 at 12.51.44 PM.png]]
+
 
 ## Video ID: eLE6UenT5Aw
 ### Learning Scripts in AI
@@ -142,12 +148,8 @@
   - **Problem reduction**: Breaking down scenes into smaller steps.
   - **Classification**: Identifying the correct script.
   - **Understanding**: Disambiguating between similar events.
-
-## Video ID: QURZKxHnEco
-### AI and Raven’s Progressive Matrices
-- **How scripts help AI solve problems**:
-  - **Scripts can categorize complex situations**.
-  - AI may use **pre-learned templates** to approach problems.
+![[Screenshot 2025-03-05 at 12.59.13 PM.png]]
+![[Screenshot 2025-03-05 at 12.59.24 PM.png]]
 
 ## Video ID: o7h0oG3Bzes
 ### Summary: The Role of Scripts in AI

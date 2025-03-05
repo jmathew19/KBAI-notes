@@ -11,30 +11,15 @@
             "id": "cd4b5469036cdf7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Production Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 Production Systems"
-            }
-          },
-          {
-            "id": "6fd245ff0eb6caa1",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "images/Screenshot 2025-03-04 at 2.30.23 PM.png"
+                "file": "images/Screenshot 2025-03-05 at 12.59.13 PM.png"
               },
               "icon": "lucide-image",
-              "title": "Screenshot 2025-03-04 at 2.30.23 PM"
+              "title": "Screenshot 2025-03-05 at 12.59.13 PM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,26 +168,27 @@
   },
   "active": "5aec8c8f30201c72",
   "lastOpenFiles": [
-    "15 Common Sense Reasoning.md",
-    "images/Screenshot 2025-03-05 at 12.08.30 PM.png",
-    "images/Screenshot 2025-03-05 at 12.06.53 PM.png",
-    "images/Screenshot 2025-03-05 at 12.02.21 PM.png",
-    "images/Screenshot 2025-03-05 at 11.59.20 AM.png",
-    "images/Screenshot 2025-03-05 at 11.56.35 AM.png",
-    "14 Understanding.md",
-    "images/Screenshot 2025-03-05 at 11.43.32 AM.png",
-    "images/Screenshot 2025-03-05 at 11.41.28 AM.png",
-    "images/Screenshot 2025-03-05 at 11.36.49 AM.png",
-    "images/Screenshot 2025-03-05 at 11.36.20 AM.png",
-    "images/Screenshot 2025-03-05 at 11.35.50 AM.png",
-    "13 Planning.md",
+    "images/Screenshot 2025-03-05 at 12.59.24 PM.png",
+    "16 Scripts.md",
+    "images/Screenshot 2025-03-05 at 12.59.13 PM.png",
+    "3 Semantic Networks.md",
+    "17 Explanation Based Reasoning.md",
     "1 KBAI.md",
+    "images/Screenshot 2025-03-05 at 12.51.44 PM.png",
+    "14 Understanding.md",
+    "13 Planning.md",
+    "images/Screenshot 2025-03-05 at 12.46.02 PM.png",
+    "images/Screenshot 2025-03-05 at 12.45.34 PM.png",
+    "15 Common Sense Reasoning.md",
+    "images/Screenshot 2025-03-05 at 12.18.53 PM.png",
+    "images/Screenshot 2025-03-05 at 12.25.35 PM.png",
+    "images/Screenshot 2025-03-05 at 12.24.35 PM.png",
+    "images/Screenshot 2025-03-05 at 12.23.05 PM.png",
+    "images/Screenshot 2025-03-05 at 12.20.29 PM.png",
     "5 Means End Analysis.md",
     "6 Production Systems.md",
     "7 Frames.md",
     "11 Classification.md",
-    "16 Scripts.md",
-    "17 Explanation Based Reasoning.md",
     "Unconfirmed 799713.crdownload",
     "4 Generate and Test.md"
   ]

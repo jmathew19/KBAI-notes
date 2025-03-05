@@ -81,13 +81,24 @@ We can now apply the primitive to the sentences we had earlier
 take sentence: **"John fertilizer of the field"**
 we know that it can be rewritten as **"John PUT fertilizer of the field"**
 
+The AI needs to understand implied action to make it transparent so that it can apply primitive actions 
+
+The sentence is difficult to map out the primitive action so we need to 
+
+Bill fired a bullet at Bob. → Bill propelled a bullet into Bob.
+
+We can easily map it out now
+![[Screenshot 2025-03-05 at 12.18.53 PM.png]]
+
+
+
 ---
 
 ## Video ID: HIHT6Wmzcyw
 ### Handling Ambiguous Sentences
 - Example: "Bill shot Bob."
   - Possible meanings:
-    1. Bill fired a bullet at Bob.
+    1. Bill fired a bullet at Bob. → Bill propelled a bullet into Bob.
     2. Bill took a picture of Bob.
   - AI must **use context** to disambiguate.
 - AI **may revise interpretations** if it realizes the initial frame does not fit.
@@ -101,6 +112,7 @@ we know that it can be rewritten as **"John PUT fertilizer of the field"**
   - AI should infer that **Ashok’s hand moved**, even if not stated explicitly.
   - **Micro-stories** provide sub-actions (grasping, moving, releasing).
 
+![[Screenshot 2025-03-05 at 12.20.29 PM.png]]
 ---
 
 ## Video ID: eVqJy614AvU
@@ -108,16 +120,14 @@ we know that it can be rewritten as **"John PUT fertilizer of the field"**
 - Could AI use these techniques to solve **Raven’s Progressive Matrices**?
 - **Primitive actions** could correspond to **visual transformations**.
 - AI could recognize **patterns** and **higher-level transformations**.
-
+![[Screenshot 2025-03-05 at 12.23.05 PM.png]]
 ---
 
 ## Video ID: Ol9q0kSyGtc
-### Summary and Next Steps
-- **Common sense reasoning** provides AI with a formal structure for inference.
-- **Primitive actions** form the foundation.
-- **Hierarchical structures** allow for complex reasoning.
-- Next lesson: **"Scripts" – understanding multi-sentence stories.**
+### Susan comforted Jing
+-  ![[Screenshot 2025-03-05 at 12.24.35 PM.png]]
 
+![[Screenshot 2025-03-05 at 12.25.35 PM.png]]
 ---
 
 ## Video ID: XjmXo3vrnk4
