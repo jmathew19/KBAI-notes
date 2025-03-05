@@ -16,7 +16,7 @@ CBR consists of **four main phases**:
 - **Learning by Recording Cases**: Assigns the closest matching **color** to a new block.
 - **CBR**: If no identical block exists, it **adapts** a past case (e.g., inferring a shade between two similar colors).
 ![[Screenshot 2025-02-22 at 2.13.01 PM.png]]
-From [[7 Learn By Recording Cases]] we would say the block is orange, but in fact its pink
+From [[8 Learn By Recording Cases]] we would say the block is orange, but in fact its pink
 ### Real-World Analogy
 - **Navigation**:
   - **Learning by Recording Cases**: "Follow Route A, which worked before."
