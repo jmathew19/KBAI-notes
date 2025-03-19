@@ -1,6 +1,6 @@
 # Lecture 14: Understanding in AI
 
-###### Video ID: 2FyBCtHrxYs
+####Video ID: 2FyBCtHrxYs
 ### Introduction to Understanding
 - **Understanding**: The process of making sense of stories and the world.
 - **Key concepts**:
@@ -9,7 +9,7 @@
   - **Grammar & Constraints**: Help guide the interpretation of ambiguous concepts.
 - **Upcoming topic**: **Common sense reasoning**.
 ![[Screenshot 2025-03-05 at 11.25.23 AM.png]]
-###### Video ID: 1fke7NxJSiE
+####Video ID: 1fke7NxJSiE
 ### Story Understanding and Disambiguation
 
 ![[Screenshot 2025-03-05 at 11.25.54 AM.png]]
@@ -25,7 +25,7 @@
 ![[Screenshot 2025-03-05 at 11.27.32 AM.png]]
 
 
-###### Video ID: TNpppu_KAqU
+####Video ID: TNpppu_KAqU
 ### Sentence Analysis: "Ashok made pancakes for David with a griddle."
 - **Types of analysis**:
   - **Lexical analysis**: Identifies parts of speech.
@@ -42,7 +42,7 @@
   - Inference-based understanding mirrors human cognition.
 ![[Screenshot 2025-03-05 at 11.30.07 AM.png]]
 
-###### Video ID: hASvnAHHdcs
+####Video ID: hASvnAHHdcs
 ### Thematic Role Systems in AI
 - **Definition**: A [[7 Frames]] -based system where each action has associated expectations.
 - **Example**: The verb "throw" expects:
@@ -53,7 +53,7 @@
   - Helps AI **predict missing information**.
   - Generates expectations even when details are missing.
 
-###### Video ID: eR2feVVPmdU
+####Video ID: eR2feVVPmdU
 ### Story Representation: "David went to the meeting with Ashok by car."
 - **Breaking it down**:
   - **Verb**: Went (past tense of "go").
@@ -65,7 +65,7 @@
 ![[Screenshot 2025-03-05 at 11.33.58 AM.png]]
 
 ![[Screenshot 2025-03-05 at 11.35.50 AM.png]]
-###### Video ID: WtG4eI4uers
+####Video ID: WtG4eI4uers
 ### Using Grammar & Prepositions for Meaning
 - **Example**: "By" can mean:
   - **Agent** → "Written by Ashok."
@@ -76,7 +76,7 @@
   - Prepositions impose constraints but do not fully determine meaning.
   - **Ontology of the World**: Helps determine if a noun is an agent, object, or location.
 ![[Screenshot 2025-03-05 at 11.36.49 AM.png]]
-###### Video ID: vWPReLEy0AA
+####Video ID: vWPReLEy0AA
 ### The Role of Ontologies in AI Understanding
 - **Ontology**: A structured categorization of the world.
 - **Example**:
@@ -88,7 +88,7 @@
   - **Top-Down**: Uses knowledge to guide interpretation.
 - **Key Insight**: **Humans rely on background knowledge to interpret meaning**.
 
-###### Video ID: s6e1Aycar8A
+####Video ID: s6e1Aycar8A
 ### Word Ambiguity and Humor
 - **Puns rely on multiple interpretations**:
   - *"I was wondering why the ball was getting bigger, then it hit me."*
@@ -97,7 +97,7 @@
     - **Take** = *interpret* vs. *steal*.
 - **AI Challenge**: Resolving when **one correct meaning** is necessary vs. **humor** where multiple meanings coexist.
 
-###### Video ID: RTWFkMaxEK0
+####Video ID: RTWFkMaxEK0
 ### Ambiguity in Common Words: "Take"
 - **Example meanings** of *take*:
   - **To steal**: "I took the candy from the baby."
@@ -112,7 +112,7 @@
 We can look at the sentence and remove choices since they do not work. Looking at candy we know its not medicine, its not something you cheat or swindle, your not transporting, we can eliminate more till we see that steal is the most appropriate
 
 
-###### Video ID: iqeG0k2sPyo
+####Video ID: iqeG0k2sPyo
 ### AI Disambiguation Exercise
 - **Example sentences and correct meanings**:
   1. *"I took 3 from 5."* → **To subtract.**
@@ -123,7 +123,7 @@ We can look at the sentence and remove choices since they do not work. Looking a
   - "From" suggests a source → "Take" must mean theft.
   - Context impacts interpretation.
 
-###### Video ID: nQjfI8Wc-4o
+####Video ID: nQjfI8Wc-4o
 ### Disambiguating "Kill" in Stories
 - **Meanings of "Kill"**:
   - *To cause death* → "The earthquake killed 25 people."
@@ -133,14 +133,14 @@ We can look at the sentence and remove choices since they do not work. Looking a
   - **Agent's role**: Natural disaster vs. Government official.
   - **Background Knowledge**: Helps infer correct meaning.
 
-###### Video ID: wijBXftv-0c
+####Video ID: wijBXftv-0c
 ### Applying Understanding to Raven's Progressive Matrices
 - **Cognitive AI Challenge**:
   - Identifying **patterns and transformations**.
   - Frames help define **expected changes**.
   - **Degree of fit** to an expected transformation determines accuracy.
 
-###### Video ID: ewKG0zwKzXo
+####Video ID: ewKG0zwKzXo
 ### Summary: Understanding in AI
 - **Key takeaways**:
   - **Frames & Thematic Role Systems**: Capture verbs and expected roles.

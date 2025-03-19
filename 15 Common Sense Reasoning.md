@@ -1,6 +1,6 @@
 # Common Sense Reasoning - Lecture Notes
 
-## Video ID: rmby_NOApI4
+Video ID: rmby_NOApI4
 ### Introduction to Common Sense Reasoning
 - Humans excel at common sense reasoning, making natural, obvious inferences.
 - AI agents struggle with similar reasoning tasks.
@@ -17,7 +17,7 @@
 
 ---
 
-## Video ID: N4aii1-WV3o
+Video ID: N4aii1-WV3o
 ### Understanding Meaning in AI
 - Machines struggle with **disambiguating meanings** of words.
 - Example: The verb "eat" has multiple meanings:
@@ -35,7 +35,7 @@ Context matters in helping understanding one word has multiple meanings, and mul
 
 ---
 
-## Video ID: gXU4RC6w-Mo
+Video ID: gXU4RC6w-Mo
 ### Using Primitive Actions for AI Story Understanding
 - **Primitive actions** help simplify AI interpretation of sentences.
 - Example: "Ashok ate a frog" → maps to a **primitive action "ingest."**
@@ -50,7 +50,7 @@ We can now apply the primitive to the sentences we had earlier
 
 ---
 
-## Video ID: YydQ_uPO2f0
+Video ID: YydQ_uPO2f0
 ### Identifying Primitive Actions
 - AI must map verbs to primitive actions:
   - **John pushed the cart** → "propel" action.
@@ -63,7 +63,7 @@ We can now apply the primitive to the sentences we had earlier
 ![[Screenshot 2025-03-05 at 12.06.53 PM.png]]
 ---
 
-## Video ID: IdpWlJskfNo
+Video ID: IdpWlJskfNo
 ### AI Processing Steps
 - AI **reads left to right** in English.
 - Steps for understanding "John pushed the cart":
@@ -94,7 +94,7 @@ We can easily map it out now
 
 ---
 
-## Video ID: HIHT6Wmzcyw
+Video ID: HIHT6Wmzcyw
 ### Handling Ambiguous Sentences
 - Example: "Bill shot Bob."
   - Possible meanings:
@@ -105,7 +105,7 @@ We can easily map it out now
 
 ---
 
-## Video ID: 1Yj-Js33V6A
+Video ID: 1Yj-Js33V6A
 ### Common Sense Reasoning in AI
 - AI needs **background knowledge** to make inferences.
 - Example: "Ashok put the wedge on the block."
@@ -115,7 +115,7 @@ We can easily map it out now
 ![[Screenshot 2025-03-05 at 12.20.29 PM.png]]
 ---
 
-## Video ID: eVqJy614AvU
+Video ID: eVqJy614AvU
 ### Applying Common Sense Reasoning to AI Challenges
 - Could AI use these techniques to solve **Raven’s Progressive Matrices**?
 - **Primitive actions** could correspond to **visual transformations**.
@@ -123,14 +123,14 @@ We can easily map it out now
 ![[Screenshot 2025-03-05 at 12.23.05 PM.png]]
 ---
 
-## Video ID: Ol9q0kSyGtc
+Video ID: Ol9q0kSyGtc
 ### Susan comforted Jing
 -  ![[Screenshot 2025-03-05 at 12.24.35 PM.png]]
 
 ![[Screenshot 2025-03-05 at 12.25.35 PM.png]]
 ---
 
-## Video ID: XjmXo3vrnk4
+Video ID: XjmXo3vrnk4
 ### Connection to Human Cognition
 - Humans **use context** to decide on appropriate actions.
 - AI must **model "Theory of Mind"**:

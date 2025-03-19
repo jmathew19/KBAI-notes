@@ -11,15 +11,32 @@
             "id": "cd4b5469036cdf7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Screenshot 2025-03-05 at 12.59.13 PM.png"
+                "file": "14 Understanding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-05 at 12.59.13 PM"
+              "icon": "lucide-file",
+              "title": "14 Understanding"
+            }
+          },
+          {
+            "id": "7857faa40b196a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Constraint Propogation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20 Constraint Propogation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,29 +183,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aec8c8f30201c72",
+  "active": "7857faa40b196a7d",
   "lastOpenFiles": [
-    "images/Screenshot 2025-03-05 at 12.59.24 PM.png",
-    "16 Scripts.md",
-    "images/Screenshot 2025-03-05 at 12.59.13 PM.png",
+    "Screenshot 2025-03-19 at 10.31.07 AM.png",
+    "Screenshot 2025-03-19 at 10.30.49 AM.png",
+    "Screenshot 2025-03-19 at 10.25.34 AM.png",
+    "Screenshot 2025-03-19 at 10.24.59 AM.png",
+    "Screenshot 2025-03-19 at 10.20.46 AM.png",
+    "Screenshot 2025-03-19 at 10.20.25 AM.png",
+    "Screenshot 2025-03-19 at 10.19.39 AM.png",
+    "Screenshot 2025-03-19 at 10.17.55 AM.png",
+    "Screenshot 2025-03-19 at 10.17.26 AM.png",
+    "Screenshot 2025-03-19 at 10.12.45 AM.png",
+    "Screenshot 2025-03-19 at 10.10.28 AM.png",
+    "19 Version Spaces.md",
+    "18 Analogical Reasoning.md",
     "3 Semantic Networks.md",
     "17 Explanation Based Reasoning.md",
-    "1 KBAI.md",
-    "images/Screenshot 2025-03-05 at 12.51.44 PM.png",
-    "14 Understanding.md",
-    "13 Planning.md",
-    "images/Screenshot 2025-03-05 at 12.46.02 PM.png",
-    "images/Screenshot 2025-03-05 at 12.45.34 PM.png",
-    "15 Common Sense Reasoning.md",
-    "images/Screenshot 2025-03-05 at 12.18.53 PM.png",
-    "images/Screenshot 2025-03-05 at 12.25.35 PM.png",
-    "images/Screenshot 2025-03-05 at 12.24.35 PM.png",
-    "images/Screenshot 2025-03-05 at 12.23.05 PM.png",
-    "images/Screenshot 2025-03-05 at 12.20.29 PM.png",
-    "5 Means End Analysis.md",
-    "6 Production Systems.md",
-    "7 Frames.md",
+    "26 Wrap up.md",
+    "10 Incremental Concept Learning.md",
     "11 Classification.md",
+    "12 Logic.md",
+    "13 Planning.md",
+    "14 Understanding.md",
+    "15 Common Sense Reasoning.md",
+    "16 Scripts.md",
+    "20 Constraint Propogation.md",
+    "21 Configuration.md",
+    "22 Diagnosis.md",
+    "23 Learning By Correcting Mistakes.md",
+    "24 Meta-reasoning.md",
+    "25 Advanced Topics.md",
+    "7 Frames.md",
+    "6 Production Systems.md",
+    "8 Learn By Recording Cases.md",
+    "1 KBAI.md",
+    "5 Means End Analysis.md",
     "Unconfirmed 799713.crdownload",
     "4 Generate and Test.md"
   ]

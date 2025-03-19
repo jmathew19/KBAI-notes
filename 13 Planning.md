@@ -1,7 +1,7 @@
 
 # Lecture 13: Planning in AI
 
-## Video ID: yE0lK8CItlE
+Video ID: yE0lK8CItlE
 ### Introduction to Planning
 - **Definition**: An intelligent agent maps perceptual histories into actions.
 - **Planning**: A method for action selection using logical syntax.
@@ -11,7 +11,7 @@
   - **Conflicts between multiple goals**: Addressed by **partial-order planning**.
   - **Hierarchical Task Networks (HTNs)**: Used for complex hierarchical plans.
 
-## Video ID: if0YnRb9iEU
+Video ID: if0YnRb9iEU
 ### Blocks World Problem
 - **Scenario**: A robot moves blocks from an initial state to a goal state.
 - **Constraints**:
@@ -22,7 +22,7 @@
   - **Systematic, knowledge-based methods**: Now used for structured goal selection.
 - **Question**: How does an agent select the most relevant goal?
 
-## Video ID: Xa3Yq6fw4Tk
+Video ID: Xa3Yq6fw4Tk
 ### Goal Conflict Example: Painting a Room
 - **Scenario**: Robot must paint both the ceiling and the ladder.
 - **Conflict**: If the robot paints the ladder first, it cannot climb it to paint the ceiling.
@@ -31,12 +31,12 @@
   - **AI Reasoning**: Using **propositional logic** to represent goals.
 
 
-## Video ID: OxRwB46NXuM
+Video ID: OxRwB46NXuM
 ### Propositional Logic Representation
 - **Exercise**: Represent "painting the ladder" using propositional logic.
 - **Combining goals**: Represent both "Painted(Ceiling)" and "Painted(Ladder)" as a conjunction.
 
-## Video ID: ZAp8yyEiVBA
+Video ID: ZAp8yyEiVBA
 ### Specifying the Initial State
 - **Example**:
   - **Initial state**: Robot is on the floor, ladder and ceiling are dry.
@@ -46,7 +46,7 @@
 ![[Screenshot 2025-03-04 at 2.30.23 PM.png]]
 
 
-## Video ID: 2PyyQt1Vcmg
+Video ID: 2PyyQt1Vcmg
 ### Defining Operators in Planning
 - **Example**: Operator **climb-ladder**
   - **Precondition**: Robot is on the floor, ladder is dry.
@@ -61,14 +61,14 @@
 in example paint-ceiling we need to negate things that were true in the world before, ex `paint-ladder` we need to negate truths previously. We need to state the ladder is not dry now.  
 
 
-## Video ID: v6zTfqhtEhc
+Video ID: v6zTfqhtEhc
 ### Exercises: Defining Operators
 - **Examples**:
   - **descend-ladder**: Preconditions → robot on ladder, ladder dry. Postcondition → robot on floor.
   - **paint-ceiling**: Preconditions → robot on ladder. Postconditions → ceiling painted, ladder not dry.
   - **paint-ladder**: Preconditions → robot on floor. Postconditions → ladder painted, ladder not dry.
   
-## Video ID: 3K8KUD_D6ds
+Video ID: 3K8KUD_D6ds
 ### Planning and Navigation
 - **Example**: Navigating an urban area
 - **Types of Knowledge**:
@@ -79,7 +79,7 @@ in example paint-ceiling we need to negate things that were true in the world be
 Planning provides systematic methods for selecting diff operators 
 ![[Screenshot 2025-03-04 at 2.45.30 PM.png]]
 ![[Screenshot 2025-03-04 at 2.49.32 PM.png]]
-## Video ID: Xe89wPuPgCc
+Video ID: Xe89wPuPgCc
 ### Issues with Means-Ends Analysis
 - **Problem**: Selecting actions in the wrong order leads to goal conflicts.
 - **Example**:
@@ -92,14 +92,14 @@ We see in the example after doing paint ladder then going into climb ladder the 
 
 
 How does planning find out which order to do things
-## Video ID: Lh8tzE7B6pc
+Video ID: Lh8tzE7B6pc
 ### Introduction to Partial-Order Planning
 - **Partial-Order Planning**: Solves conflicts between goals.
 - **Example**: Furniture assembly mistake (couch assembly before moving it in the house).
 - **Solution**: **Plan steps carefully to avoid conflicts**.
 
 
-## Video ID: cwjbtxddJt8
+Video ID: cwjbtxddJt8
 ### Implementing Partial-Order Planning
 - **Example**: Painting the ladder and painting the ceiling.
 - **Steps**:
@@ -110,7 +110,7 @@ How does planning find out which order to do things
 It would break them into sub goals and see what the plan is to achieve that goal
 ![[Screenshot 2025-03-04 at 3.04.42 PM.png]]
 
-## Video ID: nAImor8mgwA
+Video ID: nAImor8mgwA
 ### Conflict Resolution in Partial-Order Planning
 - **Detecting conflicts**: Precondition of an operator contradicts another operator's postcondition.
 - **Example**: Dry ladder (needed for climbing) becomes wet after painting.
@@ -130,7 +130,7 @@ the final plan:
 Here the robot needs to find a transition state to lead from plan 1 to plan 2, it finds that `desend-ladder` is best option
 
 
-## Video ID: 7L3tcoFMR7w
+Video ID: 7L3tcoFMR7w
 
 Instead of micro operators can we have macro operators to generalize?
 ![[Screenshot 2025-03-04 at 3.28.53 PM.png]]
@@ -143,7 +143,7 @@ Instead of micro operators can we have macro operators to generalize?
   - **Unstack**: Abstract operation for moving blocks.
   - **Stack-Ascending**: Abstract operation for stacking blocks in order.
 
-## Video ID: 5wFbZSTumHs
+Video ID: 5wFbZSTumHs
 ### Planning and Cognitive Agents
 - **Why Planning Matters**:
   - **Action selection is central to cognition**.

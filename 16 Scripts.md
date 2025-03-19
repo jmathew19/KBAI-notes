@@ -1,6 +1,6 @@
 # Lecture 16: Scripts in AI
 
-## Video ID: FuSqFZBwN_w
+Video ID: FuSqFZBwN_w
 ### Introduction to Scripts
 - **Definition**: Scripts are a structured knowledge representation for understanding discourses, stories, and scenes.
 - **Building on previous topics**:
@@ -11,7 +11,7 @@
   - Generating expectations about discourse and stories.
   - The **hierarchical nature** of scripts.
 
-## Video ID: nT-VzlzzWe8
+Video ID: nT-VzlzzWe8
 ### The Importance of Stories in AI
 - **Story-based reasoning**:
   - AI (like Watson and Siri) primarily understand **single sentences**.
@@ -21,14 +21,14 @@
   - *Sarah replied, "Go ahead and grab your lunch."*
   - AI must infer Sarah’s reasoning: If no customers are expected, Ali can take a break.
 
-## Video ID: jJOUm3mj-80
+Video ID: jJOUm3mj-80
 ### Inferring Meaning and Common Sense
 - **Example**:
   - *Ashok wanted to become rich. He got a gun.*
   - Humans infer a **likely causal connection** between obtaining a gun and attempting a robbery.
   - AI must learn to generate such inferences.
 
-## Video ID: wm3pc49x7UE
+Video ID: wm3pc49x7UE
 ### Scripts and Common Sense Reasoning
 - **Restaurant story**:
   - *Bob went to a restaurant. He waited a long time. His food was burned. He didn’t leave a tip.*
@@ -37,7 +37,7 @@
   - **Pre-learned structures** define relationships between actions and expectations.
   - Roomba- Roomba hears a spill, can imply it needs to clean
 
-## Video ID: bFgtpCAk-UM
+Video ID: bFgtpCAk-UM
 ### The Power of Scripts in Daily Life
 - Humans don’t require **explicit details** in many situations.
 - **Example**:
@@ -47,7 +47,7 @@
     - Waiting for the drink.
   - If something unusual happens (e.g., the barista slaps you), it violates the expected script.
 
-## Video ID: kW6Zx6hEn-g
+Video ID: kW6Zx6hEn-g
 ### Defining a Script
 - **Scripts capture causally coherent events**:
   - **Causal**: One  event leads to another.
@@ -55,7 +55,7 @@
 - **Example**:
   - Entering a coffee shop leads to ordering, payment, and receiving a drink.
 
-## Video ID: MBOTLKEoxuk
+Video ID: MBOTLKEoxuk
 ### Structure of a Script
 1. **Entry Conditions**: Preconditions required to trigger the script.
    - *Example: Customer is hungry and has money.*
@@ -70,7 +70,7 @@
 6. **Scenes**: Steps in executing the script.
    - *Example: Entering, ordering, eating, paying, leaving.*
 
-## Video ID: 5V7okCYxdDc
+Video ID: 5V7okCYxdDc
 ### Example: Restaurant Script Representation
 - **Components**:
   - **Props**: Tables, menu, food, money.
@@ -85,7 +85,7 @@
 ![[Screenshot 2025-03-05 at 12.45.34 PM.png]]
 ![[Screenshot 2025-03-05 at 12.46.02 PM.png]]
 
-## Video ID: zbllXuDBQ0Q
+Video ID: zbllXuDBQ0Q
 ### Instantiating Scripts for AI
 - **Example**:
   - A **robot** with a restaurant script can anticipate:
@@ -94,7 +94,7 @@
 - **Key Insight**:
   - **Scripts provide a structured guide for AI behavior**.
 
-## Video ID: ZEmIJaGEZoo
+Video ID: ZEmIJaGEZoo
 ### Expectation Violations in Scripts
 - **Surprise occurs when expectations aren’t met**.
 - **Example**:
@@ -109,7 +109,7 @@
   - Creativity is linked to **novelty, usefulness, and surprise**.
 
 
-## Video ID: 8j-7Vo93pdc
+Video ID: 8j-7Vo93pdc
 ### Script Tracks: Variations of Common Scripts
 - **Examples**:
   - **Restaurant tracks**:
@@ -123,7 +123,7 @@
 ![[Screenshot 2025-03-05 at 12.51.44 PM.png]]
 
 
-## Video ID: eLE6UenT5Aw
+Video ID: eLE6UenT5Aw
 ### Learning Scripts in AI
 - **Topics that help AI learn scripts**:
   - **Semantic networks**: Represent relationships between concepts.
@@ -132,14 +132,14 @@
   - **Planning**: Converts plans into reusable scripts.
   - **Common sense reasoning**: Provides logical interpretation of events.
 
-## Video ID: aJPY_z0qt3M
+Video ID: aJPY_z0qt3M
 ### AI and Script-Based Reasoning
 - **AI can use scripts for reasoning**:
   - **Example**:
     - Seeing a hostess at a restaurant → Recognizing a formal dining scenario.
   - **Scripts help AI classify and act efficiently**.
 
-## Video ID: nUB3YEcj0V0
+Video ID: nUB3YEcj0V0
 ### Using Scripts vs. Generating Scripts
 - **AI can either**:
   1. **Use pre-learned scripts**.
@@ -151,7 +151,7 @@
 ![[Screenshot 2025-03-05 at 12.59.13 PM.png]]
 ![[Screenshot 2025-03-05 at 12.59.24 PM.png]]
 
-## Video ID: o7h0oG3Bzes
+Video ID: o7h0oG3Bzes
 ### Summary: The Role of Scripts in AI
 - **Scripts are essential for understanding and predicting events**.
 - **Scripts are hierarchical**:
@@ -161,7 +161,7 @@
 - **Conclusion**:
   - Scripts are a powerful tool in **common sense reasoning**.
 
-## Video ID: hgbPouFelN0
+Video ID: hgbPouFelN0
 ### Scripts and Human Cognition
 - **The brain as a prediction machine**:
   - We expect the world to follow **predictable patterns**.

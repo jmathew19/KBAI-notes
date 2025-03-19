@@ -1,6 +1,6 @@
 # Lecture 17: Explanation-Based Learning in AI
 
-## Video ID: n8KQOsYms1Q
+Video ID: n8KQOsYms1Q
 ### Introduction to Explanation-Based Learning (EBL)
 - **EBL Overview**:
   - The agent **does not learn new concepts**.
@@ -13,7 +13,7 @@
   - **Abstraction**: Generalizing knowledge for transfer.
   - **Transfer**: Applying previous knowledge to new problems.
 
-## Video ID: j5YxvMvCYhc
+Video ID: j5YxvMvCYhc
 ### Soup Transportation Problem
 - **Scenario**:
   - You need to transport soup, but **usual utensils are unavailable**.
@@ -26,7 +26,7 @@
   - **Incremental Learning**: Learning from a small number of examples.
   - **Creativity in AI**: AI must generate novel solutions.
 
-## Video ID: 4j_OryTZIAE
+Video ID: 4j_OryTZIAE
 ### AI Struggles with Simple Decisions
 - **Why is this problem hard for AI?**
   - AI needs **structured reasoning** to determine why **a pitcher** is better than **a backpack**.
@@ -34,8 +34,8 @@
   - Unlike data-driven ML methods, **EBL learns incrementally**.
   - AI **derives knowledge from reasoning**, rather than detecting statistical patterns.
 
-## Video ID: jHEZwUlRWR0
-### Recognizing a Cup: A Creative Robot
+Video ID: jHEZwUlRWR0
+### Recognizing a Cup: A Creative Robot![[Screenshot 2025-03-11 at 1.15.58 PM.png]] 
 - **Scenario**:
   - A household **robot makes coffee** and brings it in a cup.
   - One day, **no clean cups are available**.
@@ -44,26 +44,32 @@
   - How does the robot **prove** the object is a cup?
   - AI must **build an explanation** to justify its reasoning.
 
-## Video ID: T3pfV2GSVGU
+Video ID: T3pfV2GSVGU
 ### How AI Builds Explanations
 - **Defining the Problem**:
   - AI must **prove** that an object is a cup.
   - AI has **knowledge about objects** (e.g., **shape, material, properties**).
 - **Knowledge Representation**:
   - The AI must connect **observable facts** (e.g., concave shape) to **functional use** (e.g., holding liquid).
-
-## Video ID: u6OU9q-3lpk
+![[Screenshot 2025-03-11 at 1.16.56 PM.png]]
+Video ID: u6OU9q-3lpk
 ### Causal Knowledge in AI
 - **AI Knowledge Base**:
   - **Brick**: Stable **because** it has a flat bottom.
+  - ![[Screenshot 2025-03-11 at 1.17.55 PM.png]]
   - **Briefcase**: Liftable **because** it is light and has a handle.
+  - ![[Screenshot 2025-03-11 at 1.18.49 PM.png]]
   - **Bowl**: Carries liquid **because** it is concave.
+  - ![[Screenshot 2025-03-11 at 1.19.55 PM.png]]
   - **Glass**: Enables drinking **because** it carries liquid and is liftable.
+  -  ![[Screenshot 2025-03-11 at 1.20.28 PM.png]]
 - **Key Insight**:
   - AI must **reason causally**, not just store facts.
+  - Must find the causal connection between the two 
 
-## Video ID: uym1sxtq8Lw
+Video ID: uym1sxtq8Lw
 ### How AI Abstracts Knowledge
+
 - **Example**: Generalizing from a bowl
   - AI **extracts only the causally relevant features**.
   - "A bowl carries liquid **because** it is concave" → Generalized as:
@@ -71,8 +77,9 @@
 - **Importance of Abstraction**:
   - AI **ignores irrelevant features**.
   - Focuses on **causally meaningful explanations**.
+  - ![[Screenshot 2025-03-11 at 1.21.45 PM.png]]
 
-## Video ID: yRDp2Gd0Shw
+Video ID: yRDp2Gd0Shw
 ### Constructing an Explanation: Proving an Object is a Cup
 - **Step-by-step Explanation**:
   - AI **chains multiple abstractions**:
@@ -80,13 +87,17 @@
     2. Object carries liquid → **From the bowl**.
     3. Object is liftable → **From the briefcase**.
     4. Object enables drinking → **From the glass**.
+![[Screenshot 2025-03-11 at 1.25.52 PM.png]]
   - **Backward reasoning**:
     - AI **starts from the goal** ("Prove it’s a cup").
     - **Breaks it into subgoals** ("Prove it enables drinking").
     - **Selects supporting evidence from memory**.
 
-## Video ID: IDfj-U7jdFA
-### Exercise: Proving an Object is a Mug
+
+
+Video ID: IDfj-U7jdFA
+### Exercise: Proving an Object is a Mug![[Screenshot 2025-03-11 at 1.30.02 PM.png]]
+- Nope
 - **Definition of a Mug**:
   - Stable.
   - Enables drinking.
@@ -95,18 +106,22 @@
   - AI must **prove heat protection**.
   - AI knows about a **pot**, which:
     - **Limits heat transfer** because it has **thick sides** and is **made of clay**.
-  - **Failure to Complete Proof**:
+  - **Failure to Complete Proof**:![[Screenshot 2025-03-11 at 1.31.46 PM.png]]
     - AI **cannot link "limits heat transfer" to "protects against heat."**
     - The missing connection prevents a complete proof.
-
-## Video ID: CooyadGqzbk
+    - ![[Screenshot 2025-03-11 at 1.34.11 PM.png]]
+    - ![[Screenshot 2025-03-11 at 1.35.26 PM.png]]
+    - ![[Screenshot 2025-03-11 at 1.35.44 PM.png]]
+    - the spoon and cloth both give causal relationship of how something is heat proof the others have incorrect reasonings, porceling, oval shaped
+    - 
+Video ID: CooyadGqzbk
 ### Finding Missing Knowledge
 - **AI needs minimal, relevant knowledge**.
 - **Two approaches**:
   1. **Expand background knowledge** (e.g., add information about insulation).
   2. **Opportunistic reasoning** (use the best available knowledge).
 
-## Video ID: 3hfSjxV4fgo
+Video ID: 3hfSjxV4fgo
 ### Everyday Improvisation and EBL
 - **Real-world examples**:
   - Using a **mug** as a **paperweight**.
@@ -115,14 +130,14 @@
   - Humans **repurpose objects** by reasoning about **causal connections**.
   - AI needs to **learn to do the same**.
 
-## Video ID: Jy09USz_79E
+Video ID: Jy09USz_79E
 ### EBL in Raven’s Progressive Matrices
 - **How can AI apply EBL?**
   - AI can **explain transformations** in patterns.
   - Uses **prior knowledge of transformations** (e.g., rotation, reflection).
   - Transfers that knowledge to solve **new problems**.
 
-## Video ID: ISxVJKvvJ18
+Video ID: ISxVJKvvJ18
 ### Summary: Explanation-Based Learning
 - **Key Takeaways**:
   - **Concept Space**: Mapping relationships between concepts.
@@ -131,7 +146,7 @@
   - **Transfer Learning**: Applying knowledge to new situations.
 - **Next Topic**: **Analogical Reasoning**.
 
-## Video ID: FWmC6qILKV8
+Video ID: FWmC6qILKV8
 ### The Role of Explanation in AI Trust
 - **Why Explanations Matter**:
   - AI **must justify its decisions**.
